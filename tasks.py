@@ -12,5 +12,4 @@ from build import tools
 
 ns = Collection(
     tools.build, tools.clean, tools.run, tools.update, tools.html,
-    tools.rundocs,
 )
