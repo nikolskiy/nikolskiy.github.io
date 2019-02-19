@@ -1,7 +1,8 @@
-# Interests
-## Articles
+Articles
+========
 Info about my articles
 
-## Side projects
+Side projects
+=============
 Info about my side projects
 

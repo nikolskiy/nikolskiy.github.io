@@ -2,3 +2,4 @@ sphinx
 recommonmark
 nbsphinx
 sphinxcontrib-spelling
+sphinx-markdown-tables

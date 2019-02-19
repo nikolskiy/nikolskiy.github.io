@@ -8,13 +8,13 @@ I'm Denis. I'm a software developer with a lot of dev experience in Python.
    :maxdepth: 1
    :caption: Resume:
 
-   resume.md
+   my/resume.md
 
 .. toctree::
    :maxdepth: 1
    :caption: Interests:
 
-   interests.md
+   my/interests.rst
 
 
 
