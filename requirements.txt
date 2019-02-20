@@ -3,4 +3,5 @@ recommonmark
 nbsphinx
 sphinxcontrib-spelling
 sphinx-markdown-tables
+sphinx_rtd_theme
 invoke
